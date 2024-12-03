@@ -186,7 +186,7 @@
       same "printed page" as the copyright notice for easier
       identification within third-party archives.
 
-   Copyright [yyyy] [name of copyright owner]
+   Copyright [2024] [Antron Snider]
 
    Licensed under the Apache License, Version 2.0 (the "License");
    you may not use this file except in compliance with the License.
@@ -199,3 +199,28 @@
    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
    See the License for the specific language governing permissions and
    limitations under the License.
+
+
+## Non-Code Assets
+The non-code assets in this repository (e.g., images, logos, documentation) are licensed under the Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0). See [creativecommons.org/licenses/by-nc/4.0](https://creativecommons.org/licenses/by-nc/4.0/) for details.
+
+# Commercial License Agreement
+This license applies to premium features and custom implementations of United Sports Beacon.
+
+## Rights
+By purchasing a commercial license, you receive:
+- Access to premium features unavailable in the open-source version.
+- Support for custom integrations, branding, and enterprise solutions.
+
+## Restrictions
+- Redistribution of licensed features is strictly prohibited.
+- The license is non-transferable without prior written consent.
+
+For inquiries, please contact [1508snidera@gmail.com].
+
+## Licensing
+- The core platform is licensed under the [MIT License](./LICENSE).
+- Non-code assets (e.g., images, documentation) are under the [CC BY-NC 4.0 License](https://creativecommons.org/licenses/by-nc/4.0/).
+- Premium features or custom implementations are available under a commercial license. Contact [Your Email or Website] for details.
+- for any for-profit use, contact Antron Snider for permissions @CultureHustling on X and 1508snidera@gmail.com 
+- intended to grow as a community build for the sports community by the sports nerds of the sports world.
