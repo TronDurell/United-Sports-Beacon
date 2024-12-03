@@ -8,3 +8,25 @@
 - intended to grow as a community build for the sports community by the sports nerds of the sports world.
 
 - 
+United Sports Beacon
+
+Transforming grassroots sports through technology.
+
+Features
+- Immersive map interface for event and facility discovery.
+- Personalized timelines and notifications.
+- Live streaming and broadcasting for teams and athletes.
+- AI-driven coaching and performance analytics.
+
+Tech Stack
+- **Frontend:** React.js, React Native
+- **Backend:** Node.js with Express
+- **Database:** PostgreSQL, MongoDB
+- **Streaming:** WebRTC, AWS Media Services
+- **AI:** OpenAI APIs for NLP
+
+How to Contribute
+1. Fork the repository.
+2. Clone your fork and create a new branch:
+   ```bash
+   git checkout -b feature/your-feature-name
