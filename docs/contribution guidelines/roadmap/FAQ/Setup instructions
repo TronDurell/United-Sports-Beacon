@@ -3,14 +3,14 @@ Setup Guide for United Sports Beacon
 
 Welcome to United Sports Beacon! Follow this guide to set up your development environment.
 
----
+---WIP---WIP---
 
 Prerequisites
 Ensure you have the following installed:
-- **Node.js** (v16 or higher)
-- **npm** (v8 or higher) or **yarn**
-- **Docker** (optional, for containerized development)
-- **Git**
+- Node.js (v16 or higher)
+- npm (v8 or higher) or **yarn**
+- Docker (optional, for containerized development)
+- Git
 
 ---
 
