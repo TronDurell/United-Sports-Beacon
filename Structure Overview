@@ -1,0 +1,30 @@
+sports-beacon/
+│
+├── backend/                  # Backend microservices and APIs
+│   ├── user-service/         # User-related operations
+│   ├── notification-service/ # Notifications and alerts
+│   ├── booking-service/      # Facility booking system
+│   └── README.md             # Backend overview
+│
+├── frontend/                 # Frontend for web and mobile
+│   ├── web/                  # React.js for web platform
+│   ├── mobile/               # React Native for mobile app
+│   └── README.md             # Frontend overview
+│
+├── docs/                     # Documentation
+│   ├── CONTRIBUTING.md       # Contribution guidelines
+│   ├── ROADMAP.md            # Project roadmap
+│   ├── SETUP.md              # Setup instructions
+│   ├── faq.md                # Frequently asked questions
+│   └── images/               # Diagrams and assets
+│
+├── scripts/                  # Automation and deployment scripts
+├── tests/                    # Unit and integration tests
+├── .github/                  # GitHub-specific configurations
+│   ├── ISSUE_TEMPLATE/       # Templates for bug reports and feature requests
+│   └── PULL_REQUEST_TEMPLATE.md  # Template for pull requests
+│
+├── README.md                 # Project overview
+├── LICENSE                   # License information
+├── .gitignore                # Files to ignore in version control
+└── package.json              # Dependencies (for Node.js projects)
