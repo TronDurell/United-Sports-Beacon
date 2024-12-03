@@ -1,0 +1,49 @@
+Contributing to Sports Beacon
+
+Thank you for considering contributing to Sports Beacon! Follow these steps:
+
+1. Fork the repository.
+2. Clone your fork:
+   ```bash
+   git clone https://github.com/TronDurell/United-Sports-Beacon.git
+   cd United-sports-beacon
+Create a new branch: git checkout -b feature/your-feature-name
+Make your changes and commit them: git commit -m "Add feature description"
+Push your branch: git push origin feature/your-feature-name
+
+Create a Pull Request on GitHub.
+Follow our coding style guidelines and add tests for new features. We appreciate your contributions!
+
+2. Create Issue and Pull Request Templates
+Standardize issue reporting and pull request submissions.
+
+Issue Templates
+Create an `.github/ISSUE_TEMPLATE/bug_report.md` file:
+```markdown
+---
+name: Bug Report
+about: Report a bug to improve Sports Beacon
+title: "[Bug]:"
+labels: bug
+assignees: ''
+
+---
+
+Describe the bug
+A clear and concise description of what the bug is.
+
+Steps to Reproduce
+1. Go to '...'
+2. Click on '...'
+3. See error.
+
+Expected behavior
+What you expected to happen.
+
+Screenshots
+Add screenshots if applicable.
+
+Environment
+- OS: [e.g., iOS, Android]
+- Browser: [e.g., Chrome, Safari]
+- Version: [e.g., 1.0.0]
