@@ -1,1 +1,30 @@
 
+Setup Guide for United Sports Beacon
+
+Welcome to United Sports Beacon! Follow this guide to set up your development environment.
+
+---
+
+Prerequisites
+Ensure you have the following installed:
+- **Node.js** (v16 or higher)
+- **npm** (v8 or higher) or **yarn**
+- **Docker** (optional, for containerized development)
+- **Git**
+
+---
+
+Repository Structure
+The repository is organized as follows:
+- `backend/`: Contains backend microservices.
+- `frontend/`: Contains web and mobile applications.
+- `docs/`: Documentation for contributors and developers.
+
+---
+
+Setting Up the Development Environment
+
+1. Clone the Repository
+```bash
+git clone https://github.com/TronDurell/United-sports-beacon.git
+cd sports-beacon
